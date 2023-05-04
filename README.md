@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanja911
 - 👀 I’m is back-end developer
-- 🌱 I’m currently learning react native for front-end
+- 🌱 I’m currently learning python programming language
 - 📫 How to reach me: send mail to (avi.sanja@gmail.com)
 
 <!---
